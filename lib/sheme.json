@@ -1,0 +1,813 @@
+{
+  "data": {
+    "userByParam": {
+      "name": "Asti Annisa Amalia",
+      "email": "astiannisa@gmail.com",
+      "phonenumber": "089703316800",
+      "password": "1234",
+      "enrollment": [
+        {
+          "course": [
+            {
+              "_id": "8TQks8eFylMw3Cab9dfVsJfm9dWwRCRO",
+              "type": "postgraduate",
+              "title": "Agile",
+              "description": "Push the boundaries of team productivity. Dive deep into agile implementation. Become an Agile Transformation Leader. Join the Post Graduate Program in Agile in partnership with the University of Massachusetts Amherst to gain the tools and knowledge to succeed in real-world agile projects.",
+              "keyfeature": [
+                {
+                  "_id": "Nr1IAK6NJlFXJERaYSriLfFt1u0hRtbw",
+                  "order": "1",
+                  "title": "University of Massachusetts Amherst Post Graduate Program Certificate of Completion"
+                },
+                {
+                  "_id": "6E4taWtrZzS2U7FDDNTfQSuGsolKiCNj",
+                  "order": "2",
+                  "title": "Masterclasses from top faculty of the University of Massachusetts Amherst"
+                },
+                {
+                  "_id": "qZJXyDaPg6UwEQvEYEULXNiLu0SX3orI",
+                  "order": "3",
+                  "title": "Interactive peer learning through group projects and discussions"
+                },
+                {
+                  "_id": "3iPlxDqFOiwj5kMyOfvhDp2f8sVX6K4D",
+                  "order": "4",
+                  "title": "Three phase-end projects during the cohort and one capstone project at the end of the cohort"
+                },
+                {
+                  "_id": "1cU13ycV6cVYRdyVXs89qKGv9QgZEhHD",
+                  "order": "5",
+                  "title": "Membership to the UMass Amherst Alumni Association"
+                },
+                {
+                  "_id": "E1QdZj3nS0p7QJI6RgFDH8GkTBQlL3rO",
+                  "order": "6",
+                  "title": "Once accepted into the UMass Amherst College of Engineering Master of Science in Engineering Management (MSEM) program, Simplilearn coursework transfers as a 3-credit concentration."
+                },
+                {
+                  "_id": "FKjjn6ueiVHGufMrN2rgqTJfzeogtIE5",
+                  "order": "7",
+                  "title": "122+ hours of Applied Learning"
+                }
+              ],
+              "learningpath": [
+                {
+                  "_id": "Xycp7lJO2T9G0vuv4Le7y7D3Y1SQ1Ezw",
+                  "order": "1",
+                  "title": "Agile Methodologies",
+                  "description": "This Agile course compares Agile with traditional project management approaches and then compares popular Agile methodologies to illustrate the advantages and Pitfalls of each scenario. Some of the popular methods compared in this class include Scrum, Lean, Kanban, Extreme Programming, Crystal, Dynamic Systems Development Method."
+                },
+                {
+                  "_id": "bcWxjuxQYJNjPFDd5fiJRrI8302957FD",
+                  "order": "2",
+                  "title": "Scrum Practices",
+                  "description": "Gain a deep understanding of Agile Scrum practices that range from the empirical process to scrum values, events and retrospectives. See the concepts at play through a case study from Intel Corp."
+                },
+                {
+                  "_id": "cTGf5Q1U0OJJjN72HR6xWNiX1JI7hlrW",
+                  "order": "3",
+                  "title": "Agile Release Planning",
+                  "description": "This Agile certification course helps you manage the product development processes and provides you the structured and objective approach needed to create a roadmap and release plan to execute a product vision. You'll learn how to use Jira to increase productivity and collaboration in your team."
+                },
+                {
+                  "_id": "iqEZgB9tPXF1wT8WR1haeQodgS72sLiF",
+                  "order": "4",
+                  "title": "Agile Maturity Model",
+                  "description": "This Agile training course will help you evaluate your team/organizational capabilities in a project. It will provide an approach for planning and executing improvements to existing practices by leading the organization onto the path of continuous improvement."
+                },
+                {
+                  "_id": "a1SYgX7XomXetHCAC05BQVsBgAsldkWg",
+                  "order": "5",
+                  "title": "Agile in Scaled Environment",
+                  "description": "Scrum@Scale — become a Lean-Agile leader by creating high performing teams and programs at the organizational level. Learn how to implement DAD and Scrum@Scale frameworks."
+                },
+                {
+                  "_id": "6XkIUHuzPoQW8UqpWawpKbH5pClpSRUZ",
+                  "order": "6",
+                  "title": "Agile and Design Thinking",
+                  "description": "Understand how to begin with the user at the heart of Agile. Deliver a superior product with Agile by identifying the right problems with the help of design thinking. This Agile certification course will help you correlate design thinking, Lean and Agile practices to get better outcomes."
+                },
+                {
+                  "_id": "8Uqw3tgmQBQMLdQR9eNJla6tXiuN4CpD",
+                  "order": "7",
+                  "title": "Agile and DevOps",
+                  "description": "In this Agile training , you will learn how to streamline release processes, improve product offerings, improve collaboration, and reduce risks by integrating DevOps with Agile."
+                },
+                {
+                  "_id": "zOy2gyscR9JQ2N8s7cT08hOg9Pu4J8tm",
+                  "order": "8",
+                  "title": "Agile Capstone",
+                  "description": "The Agile Capstone project will give you an opportunity to implement the skills learned during this program. Supported by dedicated mentoring sessions, you'll learn to solve a real, industry-aligned problem. The Capstone project is your final step in the learning path and will enable you to showcase your Agile product development expertise to future employers."
+                }
+              ],
+              "quiz": [
+                {
+                  "_id": "upRNlE5vX7oyauWuuMiXYGt7ZDpd7qGp",
+                  "order": "1",
+                  "title": "UTS",
+                  "question": [
+                    {
+                      "_id": "JCHc02tnBjLilv5tIhRNsudcpxzBD2vy",
+                      "order": "4",
+                      "question": "Pellentesque nec nam aliquam sem et tortor consequat id porta.",
+                      "answer": "d",
+                      "a": "pellentesque",
+                      "b": "consequat",
+                      "c": "aliquam",
+                      "d": "porta",
+                      "__typename": "Question"
+                    },
+                    {
+                      "_id": "nBnn7vqrVUwN0e2JBbUZqfjnZ980UQlK",
+                      "order": "3",
+                      "question": "Cursus mattis molestie a iaculis.",
+                      "answer": "c",
+                      "a": "cuscus",
+                      "b": "molestie",
+                      "c": "mattis",
+                      "d": "iaculis",
+                      "__typename": "Question"
+                    },
+                    {
+                      "_id": "SaoEJlb8ueDbeHxqEgaVwLtygfv7XjDt",
+                      "order": "2",
+                      "question": "Accumsan tortor posuere ac ut consequat semper viverra nam libero.",
+                      "answer": "b",
+                      "a": "accumsan",
+                      "b": "posuere",
+                      "c": "tortor",
+                      "d": "consequat",
+                      "__typename": "Question"
+                    },
+                    {
+                      "_id": "1TIClff5iwHXjgYdlJTh5tkEfpfSZQOg",
+                      "order": "1",
+                      "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                      "answer": "a",
+                      "a": "lorem",
+                      "b": "dolor",
+                      "c": "ipsum",
+                      "d": "sit",
+                      "__typename": "Question"
+                    }
+                  ]
+                },
+                {
+                  "_id": "0HLZlWf82bkPruxOYUB3IdAiT1qY0ZtX",
+                  "order": "2",
+                  "title": "UAS",
+                  "question": [
+                    {
+                      "_id": "eSCSkleVNtWRZqnGZmOFdy6ns08A6ChE",
+                      "order": "1",
+                      "question": "Risus commodo viverra maecenas accumsan lacus vel facilisis. Elit at imperdiet dui accumsan sit amet nulla.",
+                      "answer": "d",
+                      "a": "risus",
+                      "b": "viverra",
+                      "c": "commodo",
+                      "d": "maecenas",
+                      "__typename": "Question"
+                    },
+                    {
+                      "_id": "dBIhs3GCqP7RnOfTN1ERGx1S6kRfhCRG",
+                      "order": "2",
+                      "question": "Id aliquet risus feugiat in ante metus dictum at.",
+                      "answer": "c",
+                      "a": "aluquet",
+                      "b": "ante",
+                      "c": "feugiat",
+                      "d": "metus",
+                      "__typename": "Question"
+                    },
+                    {
+                      "_id": "kEannFuy45M2YgOuYh4UNcdNkyMyP3T7",
+                      "order": "3",
+                      "question": "Consequat id porta nibh venenatis cras sed felis eget velit.",
+                      "answer": "b",
+                      "a": "consequat",
+                      "b": "venenatis",
+                      "c": "porta",
+                      "d": "felis",
+                      "__typename": "Question"
+                    },
+                    {
+                      "_id": "LGTXzpPeGGzfpurcIDyizisNXaxAmjY3",
+                      "order": "4",
+                      "question": "Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus.",
+                      "answer": "a",
+                      "a": "quam",
+                      "b": "vitae",
+                      "c": "adipiscing",
+                      "d": "proin",
+                      "__typename": "Question"
+                    }
+                  ]
+                }
+              ],
+              "bab": [
+                {
+                  "_id": "r4jAtCurMnKTQlZwglHDuJkhRgQAGzNN",
+                  "name": "BAB I",
+                  "order": "1",
+                  "materi": [
+                    {
+                      "_id": "qaIfaKS0bLU0ziy4X5VTmxcznT7uLlCV",
+                      "name": "HTML",
+                      "content": "PHA+TG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2NpbmcgZWxpdCwgc2VkIGRvIGVpdXNtb2QgdGVtcG9yIGluY2lkaWR1bnQgdXQgbGFib3JlIGV0IGRvbG9yZSBtYWduYSBhbGlxdWEuIElkIGludGVyZHVtIHZlbGl0IGxhb3JlZXQgaWQgZG9uZWMuIE1hdXJpcyBwZWxsZW50ZXNxdWUgcHVsdmluYXIgcGVsbGVudGVzcXVlIGhhYml0YW50IG1vcmJpIHRyaXN0aXF1ZSBzZW5lY3R1cyBldC4gVml0YWUgc3VzY2lwaXQgdGVsbHVzIG1hdXJpcyBhIGRpYW0gbWFlY2VuYXMgc2VkLiBTb2RhbGVzIHV0IGV0aWFtIHNpdCBhbWV0IG5pc2wgcHVydXMuIFRlbXB1cyB1cm5hIGV0IHBoYXJldHJhIHBoYXJldHJhIG1hc3NhIG1hc3NhLiBUZWxsdXMgbWF1cmlzIGEgZGlhbSBtYWVjZW5hcyBzZWQuIEVsaXQgc2VkIHZ1bHB1dGF0ZSBtaSBzaXQgYW1ldCBtYXVyaXMgY29tbW9kbyBxdWlzIGltcGVyZGlldC4gTmV0dXMgZXQgbWFsZXN1YWRhIGZhbWVzIGFjIHR1cnBpcyBlZ2VzdGFzLiBRdWlzIGF1Y3RvciBlbGl0IHNlZCB2dWxwdXRhdGUgbWkgc2l0IGFtZXQgbWF1cmlzLjwvcD4=",
+                      "order": "1"
+                    },
+                    {
+                      "_id": "BoB7bVEo4vTn2kylNgHwkGkfAF1i9VeZ",
+                      "name": "CSS",
+                      "content": "PHA+U2VkIGVnZXN0YXMgZWdlc3RhcyBmcmluZ2lsbGEgcGhhc2VsbHVzIGZhdWNpYnVzIHNjZWxlcmlzcXVlIGVsZWlmZW5kIGRvbmVjIHByZXRpdW0uIERvbG9yIG1hZ25hIGVnZXQgZXN0IGxvcmVtIGlwc3VtLiBGYWNpbGlzaSBudWxsYW0gdmVoaWN1bGEgaXBzdW0gYSBhcmN1IGN1cnN1cyB2aXRhZS4gRHVpIHV0IG9ybmFyZSBsZWN0dXMgc2l0LiBFdWlzbW9kIGxhY2luaWEgYXQgcXVpcyByaXN1cyBzZWQgdnVscHV0YXRlIG9kaW8gdXQgZW5pbS4gSWQgYWxpcXVldCByaXN1cyBmZXVnaWF0IGluIGFudGUgbWV0dXMuIFNpdCBhbWV0IHRlbGx1cyBjcmFzIGFkaXBpc2NpbmcgZW5pbSBldS4gQXJjdSBiaWJlbmR1bSBhdCB2YXJpdXMgdmVsIHBoYXJldHJhIHZlbC4gUHJldGl1bSBxdWFtIHZ1bHB1dGF0ZSBkaWduaXNzaW0gc3VzcGVuZGlzc2UgaW4gZXN0IGFudGUgaW4gbmliaC4gVHVycGlzIG51bmMgZWdldCBsb3JlbSBkb2xvciBzZWQuIEZhdWNpYnVzIGludGVyZHVtIHBvc3VlcmUgbG9yZW0gaXBzdW0uIEV1IHNlbSBpbnRlZ2VyIHZpdGFlIGp1c3RvIGVnZXQgbWFnbmEuIFV0IGNvbnNlcXVhdCBzZW1wZXIgdml2ZXJyYSBuYW0gbGliZXJvIGp1c3RvIGxhb3JlZXQuIERpYW0gaW4gYXJjdSBjdXJzdXMgZXVpc21vZC4gQ3Vyc3VzIHZpdGFlIGNvbmd1ZSBtYXVyaXMgcmhvbmN1cyBhZW5lYW4gdmVsLiBNb3JiaSB0aW5jaWR1bnQgb3JuYXJlIG1hc3NhIGVnZXQgZWdlc3RhcyBwdXJ1cyB2aXZlcnJhIGFjY3Vtc2FuLiBNYWVjZW5hcyBzZWQgZW5pbSB1dCBzZW0gdml2ZXJyYSBhbGlxdWV0IGVnZXQuPC9wPg==",
+                      "order": "2"
+                    },
+                    {
+                      "_id": "EsgE1VzJLTK60qPKBafkviaLaku1F2lQ",
+                      "name": "JavaScript",
+                      "content": "PHA+SWFjdWxpcyBldSBub24gZGlhbSBwaGFzZWxsdXMgdmVzdGlidWx1bS4gTmVxdWUgY29udmFsbGlzIGEgY3JhcyBzZW1wZXIgYXVjdG9yIG5lcXVlIHZpdGFlIHRlbXB1cy4gTG9yZW0gZG9sb3Igc2VkIHZpdmVycmEgaXBzdW0gbnVuYy4gT3JuYXJlIG1hc3NhIGVnZXQgZWdlc3RhcyBwdXJ1cyB2aXZlcnJhIGFjY3Vtc2FuIGluLiBEb2xvciBzaXQgYW1ldCBjb25zZWN0ZXR1ciBhZGlwaXNjaW5nIGVsaXQgdXQgYWxpcXVhbSBwdXJ1cyBzaXQuIElkIGV1IG5pc2wgbnVuYyBtaSBpcHN1bSBmYXVjaWJ1cyB2aXRhZS4gQXQgdGVsbHVzIGF0IHVybmEgY29uZGltZW50dW0gbWF0dGlzIHBlbGxlbnRlc3F1ZS4gRXUgc2VtIGludGVnZXIgdml0YWUganVzdG8gZWdldCBtYWduYS4gVHVycGlzIGN1cnN1cyBpbiBoYWMgaGFiaXRhc3NlIHBsYXRlYSBkaWN0dW1zdCBxdWlzcXVlIHNhZ2l0dGlzLiBWaXRhZSB0b3J0b3IgY29uZGltZW50dW0gbGFjaW5pYSBxdWlzIHZlbCBlcm9zLiBDb25zZXF1YXQgbWF1cmlzIG51bmMgY29uZ3VlIG5pc2kgdml0YWUgc3VzY2lwaXQgdGVsbHVzLiBVbGxhbWNvcnBlciBzaXQgYW1ldCByaXN1cyBudWxsYW0gZWdldCBmZWxpcyBlZ2V0LiBBbWV0IG1hdXJpcyBjb21tb2RvIHF1aXMgaW1wZXJkaWV0IG1hc3NhIHRpbmNpZHVudCBudW5jLjwvcD4=",
+                      "order": "3"
+                    }
+                  ]
+                },
+                {
+                  "_id": "iE3SB443vMWSnzi6bZ68F9Xahs0wGQx4",
+                  "name": "BAB II",
+                  "order": "2",
+                  "materi": [
+                    {
+                      "_id": "AJQLPfZfqbaaB02SNnucmM3Za0TeBFsi",
+                      "name": "SASS / SCSS",
+                      "content": "PHA+VXJuYSBuZXF1ZSB2aXZlcnJhIGp1c3RvIG5lYyB1bHRyaWNlcyBkdWkuIFVsbGFtY29ycGVyIGEgbGFjdXMgdmVzdGlidWx1bSBzZWQgYXJjdSBub24uIEVzdCBsb3JlbSBpcHN1bSBkb2xvciBzaXQgYW1ldCBjb25zZWN0ZXR1ci4gTW9sZXN0aWUgYWMgZmV1Z2lhdCBzZWQgbGVjdHVzIHZlc3RpYnVsdW0gbWF0dGlzIHVsbGFtY29ycGVyIHZlbGl0LiBQdXJ1cyBpbiBtb2xsaXMgbnVuYyBzZWQgaWQgc2VtcGVyLiBQdXJ1cyBmYXVjaWJ1cyBvcm5hcmUgc3VzcGVuZGlzc2Ugc2VkIG5pc2kuIFNjZWxlcmlzcXVlIGZlbGlzIGltcGVyZGlldCBwcm9pbiBmZXJtZW50dW0gbGVvIHZlbCBvcmNpIHBvcnRhIG5vbi4gRmFjaWxpc2kgY3JhcyBmZXJtZW50dW0gb2RpbyBldS4gRWdldCBudWxsYW0gbm9uIG5pc2kgZXN0IHNpdCBhbWV0IGZhY2lsaXNpcyBtYWduYSBldGlhbS4gUXVpcyBjb21tb2RvIG9kaW8gYWVuZWFuIHNlZCBhZGlwaXNjaW5nIGRpYW0uIEZhbWVzIGFjIHR1cnBpcyBlZ2VzdGFzIGludGVnZXIuIFBoYXJldHJhIGNvbnZhbGxpcyBwb3N1ZXJlIG1vcmJpIGxlbyB1cm5hIG1vbGVzdGllIGF0IGVsZW1lbnR1bSBldS4gVm9sdXRwYXQgbWFlY2VuYXMgdm9sdXRwYXQgYmxhbmRpdCBhbGlxdWFtIGV0aWFtIGVyYXQuIExlbyBpbnRlZ2VyIG1hbGVzdWFkYSBudW5jIHZlbC4gTm9uIHF1YW0gbGFjdXMgc3VzcGVuZGlzc2UgZmF1Y2lidXMgaW50ZXJkdW0uPC9wPg==",
+                      "order": "1"
+                    },
+                    {
+                      "_id": "l1WCHcSvIQxxUxupNsRV1jgpfyJCWgvV",
+                      "name": "TypeScript",
+                      "content": "PHA+SGVuZHJlcml0IGdyYXZpZGEgcnV0cnVtIHF1aXNxdWUgbm9uIHRlbGx1cyBvcmNpIGFjLiBEaWduaXNzaW0gY29udmFsbGlzIGFlbmVhbiBldCB0b3J0b3IuIEVnZXQgbWF1cmlzIHBoYXJldHJhIGV0IHVsdHJpY2VzIG5lcXVlLiBPcmNpIGFjIGF1Y3RvciBhdWd1ZSBtYXVyaXMgYXVndWUgbmVxdWUuIFJob25jdXMgYWVuZWFuIHZlbCBlbGl0IHNjZWxlcmlzcXVlIG1hdXJpcy4gVWxsYW1jb3JwZXIgYSBsYWN1cyB2ZXN0aWJ1bHVtIHNlZCBhcmN1LiBGYXVjaWJ1cyBhIHBlbGxlbnRlc3F1ZSBzaXQgYW1ldC4gSXBzdW0gZmF1Y2lidXMgdml0YWUgYWxpcXVldCBuZWMgdWxsYW1jb3JwZXIuIE5lcXVlIGdyYXZpZGEgaW4gZmVybWVudHVtIGV0IHNvbGxpY2l0dWRpbiBhYyBvcmNpIHBoYXNlbGx1cy4gVHVycGlzIGVnZXN0YXMgc2VkIHRlbXB1cyB1cm5hIGV0IHBoYXJldHJhLiBCaWJlbmR1bSBhdCB2YXJpdXMgdmVsIHBoYXJldHJhIHZlbC4gQXQgbGVjdHVzIHVybmEgZHVpcyBjb252YWxsaXMuIE1hbGVzdWFkYSBmYW1lcyBhYyB0dXJwaXMgZWdlc3RhcyBpbnRlZ2VyIGVnZXQuIEFkaXBpc2NpbmcgZWxpdCBkdWlzIHRyaXN0aXF1ZSBzb2xsaWNpdHVkaW4gbmliaCBzaXQuIEZhdWNpYnVzIGluIG9ybmFyZSBxdWFtIHZpdmVycmEgb3JjaSBzYWdpdHRpcyBldS4gU2VuZWN0dXMgZXQgbmV0dXMgZXQgbWFsZXN1YWRhIGZhbWVzIGFjIHR1cnBpcyBlZ2VzdGFzLiBBYyBwbGFjZXJhdCB2ZXN0aWJ1bHVtIGxlY3R1cyBtYXVyaXMgdWx0cmljZXMgZXJvcyBpbiBjdXJzdXMgdHVycGlzLiBTZW0gZnJpbmdpbGxhIHV0IG1vcmJpIHRpbmNpZHVudC4gQ3JhcyBzZWQgZmVsaXMgZWdldCB2ZWxpdC48L3A+",
+                      "order": "2"
+                    }
+                  ]
+                }
+              ],
+              "class": [
+                {
+                  "_id": "5wUozfrO49PHA6twXEe1RRX8yIAqZjWl",
+                  "name": "PGA - A",
+                  "task": [
+                    {
+                      "_id": "9cUsrm2XXUq0yLhhamwbzV7rZMIi4kHY",
+                      "title": "Middle Practice",
+                      "order": "1",
+                      "description": "PHA+TG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2NpbmcgZWxpdCwgc2VkIGRvIGVpdXNtb2QgdGVtcG9yIGluY2lkaWR1bnQgdXQgbGFib3JlIGV0IGRvbG9yZSBtYWduYSBhbGlxdWEuIEluIGVnZXN0YXMgZXJhdCBpbXBlcmRpZXQgc2VkIGV1aXNtb2QgbmlzaSBwb3J0YS4gU2FnaXR0aXMgb3JjaSBhIHNjZWxlcmlzcXVlIHB1cnVzIHNlbXBlciBlZ2V0IGR1aXMuIEluIG9ybmFyZSBxdWFtIHZpdmVycmEgb3JjaSBzYWdpdHRpcyBldS4gU2VkIHVsbGFtY29ycGVyIG1vcmJpIHRpbmNpZHVudCBvcm5hcmUgbWFzc2EuIE5lcXVlIGxhb3JlZXQgc3VzcGVuZGlzc2UgaW50ZXJkdW0gY29uc2VjdGV0dXIuIFV0IGRpYW0gcXVhbSBudWxsYSBwb3J0dGl0b3IgbWFzc2EgaWQuIFZpdmVycmEgb3JjaSBzYWdpdHRpcyBldSB2b2x1dHBhdCBvZGlvIGZhY2lsaXNpcyBtYXVyaXMgc2l0IGFtZXQuIEFtZXQgcG9ydHRpdG9yIGVnZXQgZG9sb3IgbW9yYmkuIFBsYWNlcmF0IGluIGVnZXN0YXMgZXJhdCBpbXBlcmRpZXQgc2VkIGV1aXNtb2QgbmlzaSBwb3J0YS4gR3JhdmlkYSBpbiBmZXJtZW50dW0gZXQgc29sbGljaXR1ZGluIGFjIG9yY2kgcGhhc2VsbHVzIGVnZXN0YXMgdGVsbHVzLiBBcmN1IGN1cnN1cyB2aXRhZSBjb25ndWUgbWF1cmlzIHJob25jdXMgYWVuZWFuIHZlbCBlbGl0LiBGZXJtZW50dW0gcG9zdWVyZSB1cm5hIG5lYyB0aW5jaWR1bnQgcHJhZXNlbnQuPC9wPg=="
+                    },
+                    {
+                      "_id": "JHvLSlI90nDT9ReqjcfqX4wjQKYkifu8",
+                      "title": "Final Practice",
+                      "order": "2",
+                      "description": "PHA+TWFnbmEgZWdldCBlc3QgbG9yZW0gaXBzdW0gZG9sb3Igc2l0LiBMYWN1cyB2ZWwgZmFjaWxpc2lzIHZvbHV0cGF0IGVzdCB2ZWxpdCBlZ2VzdGFzIGR1aSBpZCBvcm5hcmUuIE5pc2wgc3VzY2lwaXQgYWRpcGlzY2luZyBiaWJlbmR1bSBlc3QgdWx0cmljaWVzIGludGVnZXIgcXVpcyBhdWN0b3IuIEp1c3RvIGVnZXQgbWFnbmEgZmVybWVudHVtIGlhY3VsaXMgZXUgbm9uIGRpYW0gcGhhc2VsbHVzIHZlc3RpYnVsdW0uIFJob25jdXMgdXJuYSBuZXF1ZSB2aXZlcnJhIGp1c3RvLiBVbGxhbWNvcnBlciBtYWxlc3VhZGEgcHJvaW4gbGliZXJvIG51bmMuIEV0IHRvcnRvciBhdCByaXN1cyB2aXZlcnJhIGFkaXBpc2NpbmcuIFVsdHJpY2VzIG1pIHRlbXB1cyBpbXBlcmRpZXQgbnVsbGEuIFBvcnR0aXRvciBtYXNzYSBpZCBuZXF1ZSBhbGlxdWFtIHZlc3RpYnVsdW0gbW9yYmkgYmxhbmRpdC4gTGVjdHVzIG1hdXJpcyB1bHRyaWNlcyBlcm9zIGluIGN1cnN1cyB0dXJwaXMgbWFzc2EgdGluY2lkdW50IGR1aS4gQW1ldCBjb21tb2RvIG51bGxhIGZhY2lsaXNpIG51bGxhbSB2ZWhpY3VsYSBpcHN1bSBhLiBPcmNpIGRhcGlidXMgdWx0cmljZXMgaW4gaWFjdWxpcyBudW5jIHNlZCBhdWd1ZSBsYWN1cyB2aXZlcnJhLiBNaSBzaXQgYW1ldCBtYXVyaXMgY29tbW9kbyBxdWlzIGltcGVyZGlldCBtYXNzYSB0aW5jaWR1bnQuIEVuaW0gdG9ydG9yIGF0IGF1Y3RvciB1cm5hIG51bmMgaWQgY3Vyc3VzLiBGYW1lcyBhYyB0dXJwaXMgZWdlc3RhcyBtYWVjZW5hcy4gVHVycGlzIGVnZXN0YXMgbWFlY2VuYXMgcGhhcmV0cmEgY29udmFsbGlzIHBvc3VlcmUuIFNpdCBhbWV0IG51bGxhIGZhY2lsaXNpIG1vcmJpIHRlbXB1cyBpYWN1bGlzLiBVbHRyaWNpZXMgbGVvIGludGVnZXIgbWFsZXN1YWRhIG51bmMgdmVsIHJpc3VzIGNvbW1vZG8uIElhY3VsaXMgYXQgZXJhdCBwZWxsZW50ZXNxdWUgYWRpcGlzY2luZyBjb21tb2RvIGVsaXQuIFZpdmVycmEgbWFlY2VuYXMgYWNjdW1zYW4gbGFjdXMgdmVsIGZhY2lsaXNpcyB2b2x1dHBhdCBlc3QgdmVsaXQuPC9wPg=="
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "course": [
+            {
+              "_id": "8TQks8eFylMw3Cab9dfVsJfm9dWwRCRO",
+              "type": "postgraduate",
+              "title": "Agile",
+              "description": "Push the boundaries of team productivity. Dive deep into agile implementation. Become an Agile Transformation Leader. Join the Post Graduate Program in Agile in partnership with the University of Massachusetts Amherst to gain the tools and knowledge to succeed in real-world agile projects.",
+              "keyfeature": [
+                {
+                  "_id": "Nr1IAK6NJlFXJERaYSriLfFt1u0hRtbw",
+                  "order": "1",
+                  "title": "University of Massachusetts Amherst Post Graduate Program Certificate of Completion"
+                },
+                {
+                  "_id": "6E4taWtrZzS2U7FDDNTfQSuGsolKiCNj",
+                  "order": "2",
+                  "title": "Masterclasses from top faculty of the University of Massachusetts Amherst"
+                },
+                {
+                  "_id": "qZJXyDaPg6UwEQvEYEULXNiLu0SX3orI",
+                  "order": "3",
+                  "title": "Interactive peer learning through group projects and discussions"
+                },
+                {
+                  "_id": "3iPlxDqFOiwj5kMyOfvhDp2f8sVX6K4D",
+                  "order": "4",
+                  "title": "Three phase-end projects during the cohort and one capstone project at the end of the cohort"
+                },
+                {
+                  "_id": "1cU13ycV6cVYRdyVXs89qKGv9QgZEhHD",
+                  "order": "5",
+                  "title": "Membership to the UMass Amherst Alumni Association"
+                },
+                {
+                  "_id": "E1QdZj3nS0p7QJI6RgFDH8GkTBQlL3rO",
+                  "order": "6",
+                  "title": "Once accepted into the UMass Amherst College of Engineering Master of Science in Engineering Management (MSEM) program, Simplilearn coursework transfers as a 3-credit concentration."
+                },
+                {
+                  "_id": "FKjjn6ueiVHGufMrN2rgqTJfzeogtIE5",
+                  "order": "7",
+                  "title": "122+ hours of Applied Learning"
+                }
+              ],
+              "learningpath": [
+                {
+                  "_id": "Xycp7lJO2T9G0vuv4Le7y7D3Y1SQ1Ezw",
+                  "order": "1",
+                  "title": "Agile Methodologies",
+                  "description": "This Agile course compares Agile with traditional project management approaches and then compares popular Agile methodologies to illustrate the advantages and Pitfalls of each scenario. Some of the popular methods compared in this class include Scrum, Lean, Kanban, Extreme Programming, Crystal, Dynamic Systems Development Method."
+                },
+                {
+                  "_id": "bcWxjuxQYJNjPFDd5fiJRrI8302957FD",
+                  "order": "2",
+                  "title": "Scrum Practices",
+                  "description": "Gain a deep understanding of Agile Scrum practices that range from the empirical process to scrum values, events and retrospectives. See the concepts at play through a case study from Intel Corp."
+                },
+                {
+                  "_id": "cTGf5Q1U0OJJjN72HR6xWNiX1JI7hlrW",
+                  "order": "3",
+                  "title": "Agile Release Planning",
+                  "description": "This Agile certification course helps you manage the product development processes and provides you the structured and objective approach needed to create a roadmap and release plan to execute a product vision. You'll learn how to use Jira to increase productivity and collaboration in your team."
+                },
+                {
+                  "_id": "iqEZgB9tPXF1wT8WR1haeQodgS72sLiF",
+                  "order": "4",
+                  "title": "Agile Maturity Model",
+                  "description": "This Agile training course will help you evaluate your team/organizational capabilities in a project. It will provide an approach for planning and executing improvements to existing practices by leading the organization onto the path of continuous improvement."
+                },
+                {
+                  "_id": "a1SYgX7XomXetHCAC05BQVsBgAsldkWg",
+                  "order": "5",
+                  "title": "Agile in Scaled Environment",
+                  "description": "Scrum@Scale — become a Lean-Agile leader by creating high performing teams and programs at the organizational level. Learn how to implement DAD and Scrum@Scale frameworks."
+                },
+                {
+                  "_id": "6XkIUHuzPoQW8UqpWawpKbH5pClpSRUZ",
+                  "order": "6",
+                  "title": "Agile and Design Thinking",
+                  "description": "Understand how to begin with the user at the heart of Agile. Deliver a superior product with Agile by identifying the right problems with the help of design thinking. This Agile certification course will help you correlate design thinking, Lean and Agile practices to get better outcomes."
+                },
+                {
+                  "_id": "8Uqw3tgmQBQMLdQR9eNJla6tXiuN4CpD",
+                  "order": "7",
+                  "title": "Agile and DevOps",
+                  "description": "In this Agile training , you will learn how to streamline release processes, improve product offerings, improve collaboration, and reduce risks by integrating DevOps with Agile."
+                },
+                {
+                  "_id": "zOy2gyscR9JQ2N8s7cT08hOg9Pu4J8tm",
+                  "order": "8",
+                  "title": "Agile Capstone",
+                  "description": "The Agile Capstone project will give you an opportunity to implement the skills learned during this program. Supported by dedicated mentoring sessions, you'll learn to solve a real, industry-aligned problem. The Capstone project is your final step in the learning path and will enable you to showcase your Agile product development expertise to future employers."
+                }
+              ],
+              "quiz": [
+                {
+                  "_id": "upRNlE5vX7oyauWuuMiXYGt7ZDpd7qGp",
+                  "order": "1",
+                  "title": "UTS",
+                  "question": [
+                    {
+                      "_id": "JCHc02tnBjLilv5tIhRNsudcpxzBD2vy",
+                      "order": "4",
+                      "question": "Pellentesque nec nam aliquam sem et tortor consequat id porta.",
+                      "answer": "d",
+                      "a": "pellentesque",
+                      "b": "consequat",
+                      "c": "aliquam",
+                      "d": "porta",
+                      "__typename": "Question"
+                    },
+                    {
+                      "_id": "nBnn7vqrVUwN0e2JBbUZqfjnZ980UQlK",
+                      "order": "3",
+                      "question": "Cursus mattis molestie a iaculis.",
+                      "answer": "c",
+                      "a": "cuscus",
+                      "b": "molestie",
+                      "c": "mattis",
+                      "d": "iaculis",
+                      "__typename": "Question"
+                    },
+                    {
+                      "_id": "SaoEJlb8ueDbeHxqEgaVwLtygfv7XjDt",
+                      "order": "2",
+                      "question": "Accumsan tortor posuere ac ut consequat semper viverra nam libero.",
+                      "answer": "b",
+                      "a": "accumsan",
+                      "b": "posuere",
+                      "c": "tortor",
+                      "d": "consequat",
+                      "__typename": "Question"
+                    },
+                    {
+                      "_id": "1TIClff5iwHXjgYdlJTh5tkEfpfSZQOg",
+                      "order": "1",
+                      "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                      "answer": "a",
+                      "a": "lorem",
+                      "b": "dolor",
+                      "c": "ipsum",
+                      "d": "sit",
+                      "__typename": "Question"
+                    }
+                  ]
+                },
+                {
+                  "_id": "0HLZlWf82bkPruxOYUB3IdAiT1qY0ZtX",
+                  "order": "2",
+                  "title": "UAS",
+                  "question": [
+                    {
+                      "_id": "eSCSkleVNtWRZqnGZmOFdy6ns08A6ChE",
+                      "order": "1",
+                      "question": "Risus commodo viverra maecenas accumsan lacus vel facilisis. Elit at imperdiet dui accumsan sit amet nulla.",
+                      "answer": "d",
+                      "a": "risus",
+                      "b": "viverra",
+                      "c": "commodo",
+                      "d": "maecenas",
+                      "__typename": "Question"
+                    },
+                    {
+                      "_id": "dBIhs3GCqP7RnOfTN1ERGx1S6kRfhCRG",
+                      "order": "2",
+                      "question": "Id aliquet risus feugiat in ante metus dictum at.",
+                      "answer": "c",
+                      "a": "aluquet",
+                      "b": "ante",
+                      "c": "feugiat",
+                      "d": "metus",
+                      "__typename": "Question"
+                    },
+                    {
+                      "_id": "kEannFuy45M2YgOuYh4UNcdNkyMyP3T7",
+                      "order": "3",
+                      "question": "Consequat id porta nibh venenatis cras sed felis eget velit.",
+                      "answer": "b",
+                      "a": "consequat",
+                      "b": "venenatis",
+                      "c": "porta",
+                      "d": "felis",
+                      "__typename": "Question"
+                    },
+                    {
+                      "_id": "LGTXzpPeGGzfpurcIDyizisNXaxAmjY3",
+                      "order": "4",
+                      "question": "Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus.",
+                      "answer": "a",
+                      "a": "quam",
+                      "b": "vitae",
+                      "c": "adipiscing",
+                      "d": "proin",
+                      "__typename": "Question"
+                    }
+                  ]
+                }
+              ],
+              "bab": [
+                {
+                  "_id": "r4jAtCurMnKTQlZwglHDuJkhRgQAGzNN",
+                  "name": "BAB I",
+                  "order": "1",
+                  "materi": [
+                    {
+                      "_id": "qaIfaKS0bLU0ziy4X5VTmxcznT7uLlCV",
+                      "name": "HTML",
+                      "content": "PHA+TG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2NpbmcgZWxpdCwgc2VkIGRvIGVpdXNtb2QgdGVtcG9yIGluY2lkaWR1bnQgdXQgbGFib3JlIGV0IGRvbG9yZSBtYWduYSBhbGlxdWEuIElkIGludGVyZHVtIHZlbGl0IGxhb3JlZXQgaWQgZG9uZWMuIE1hdXJpcyBwZWxsZW50ZXNxdWUgcHVsdmluYXIgcGVsbGVudGVzcXVlIGhhYml0YW50IG1vcmJpIHRyaXN0aXF1ZSBzZW5lY3R1cyBldC4gVml0YWUgc3VzY2lwaXQgdGVsbHVzIG1hdXJpcyBhIGRpYW0gbWFlY2VuYXMgc2VkLiBTb2RhbGVzIHV0IGV0aWFtIHNpdCBhbWV0IG5pc2wgcHVydXMuIFRlbXB1cyB1cm5hIGV0IHBoYXJldHJhIHBoYXJldHJhIG1hc3NhIG1hc3NhLiBUZWxsdXMgbWF1cmlzIGEgZGlhbSBtYWVjZW5hcyBzZWQuIEVsaXQgc2VkIHZ1bHB1dGF0ZSBtaSBzaXQgYW1ldCBtYXVyaXMgY29tbW9kbyBxdWlzIGltcGVyZGlldC4gTmV0dXMgZXQgbWFsZXN1YWRhIGZhbWVzIGFjIHR1cnBpcyBlZ2VzdGFzLiBRdWlzIGF1Y3RvciBlbGl0IHNlZCB2dWxwdXRhdGUgbWkgc2l0IGFtZXQgbWF1cmlzLjwvcD4=",
+                      "order": "1"
+                    },
+                    {
+                      "_id": "BoB7bVEo4vTn2kylNgHwkGkfAF1i9VeZ",
+                      "name": "CSS",
+                      "content": "PHA+U2VkIGVnZXN0YXMgZWdlc3RhcyBmcmluZ2lsbGEgcGhhc2VsbHVzIGZhdWNpYnVzIHNjZWxlcmlzcXVlIGVsZWlmZW5kIGRvbmVjIHByZXRpdW0uIERvbG9yIG1hZ25hIGVnZXQgZXN0IGxvcmVtIGlwc3VtLiBGYWNpbGlzaSBudWxsYW0gdmVoaWN1bGEgaXBzdW0gYSBhcmN1IGN1cnN1cyB2aXRhZS4gRHVpIHV0IG9ybmFyZSBsZWN0dXMgc2l0LiBFdWlzbW9kIGxhY2luaWEgYXQgcXVpcyByaXN1cyBzZWQgdnVscHV0YXRlIG9kaW8gdXQgZW5pbS4gSWQgYWxpcXVldCByaXN1cyBmZXVnaWF0IGluIGFudGUgbWV0dXMuIFNpdCBhbWV0IHRlbGx1cyBjcmFzIGFkaXBpc2NpbmcgZW5pbSBldS4gQXJjdSBiaWJlbmR1bSBhdCB2YXJpdXMgdmVsIHBoYXJldHJhIHZlbC4gUHJldGl1bSBxdWFtIHZ1bHB1dGF0ZSBkaWduaXNzaW0gc3VzcGVuZGlzc2UgaW4gZXN0IGFudGUgaW4gbmliaC4gVHVycGlzIG51bmMgZWdldCBsb3JlbSBkb2xvciBzZWQuIEZhdWNpYnVzIGludGVyZHVtIHBvc3VlcmUgbG9yZW0gaXBzdW0uIEV1IHNlbSBpbnRlZ2VyIHZpdGFlIGp1c3RvIGVnZXQgbWFnbmEuIFV0IGNvbnNlcXVhdCBzZW1wZXIgdml2ZXJyYSBuYW0gbGliZXJvIGp1c3RvIGxhb3JlZXQuIERpYW0gaW4gYXJjdSBjdXJzdXMgZXVpc21vZC4gQ3Vyc3VzIHZpdGFlIGNvbmd1ZSBtYXVyaXMgcmhvbmN1cyBhZW5lYW4gdmVsLiBNb3JiaSB0aW5jaWR1bnQgb3JuYXJlIG1hc3NhIGVnZXQgZWdlc3RhcyBwdXJ1cyB2aXZlcnJhIGFjY3Vtc2FuLiBNYWVjZW5hcyBzZWQgZW5pbSB1dCBzZW0gdml2ZXJyYSBhbGlxdWV0IGVnZXQuPC9wPg==",
+                      "order": "2"
+                    },
+                    {
+                      "_id": "EsgE1VzJLTK60qPKBafkviaLaku1F2lQ",
+                      "name": "JavaScript",
+                      "content": "PHA+SWFjdWxpcyBldSBub24gZGlhbSBwaGFzZWxsdXMgdmVzdGlidWx1bS4gTmVxdWUgY29udmFsbGlzIGEgY3JhcyBzZW1wZXIgYXVjdG9yIG5lcXVlIHZpdGFlIHRlbXB1cy4gTG9yZW0gZG9sb3Igc2VkIHZpdmVycmEgaXBzdW0gbnVuYy4gT3JuYXJlIG1hc3NhIGVnZXQgZWdlc3RhcyBwdXJ1cyB2aXZlcnJhIGFjY3Vtc2FuIGluLiBEb2xvciBzaXQgYW1ldCBjb25zZWN0ZXR1ciBhZGlwaXNjaW5nIGVsaXQgdXQgYWxpcXVhbSBwdXJ1cyBzaXQuIElkIGV1IG5pc2wgbnVuYyBtaSBpcHN1bSBmYXVjaWJ1cyB2aXRhZS4gQXQgdGVsbHVzIGF0IHVybmEgY29uZGltZW50dW0gbWF0dGlzIHBlbGxlbnRlc3F1ZS4gRXUgc2VtIGludGVnZXIgdml0YWUganVzdG8gZWdldCBtYWduYS4gVHVycGlzIGN1cnN1cyBpbiBoYWMgaGFiaXRhc3NlIHBsYXRlYSBkaWN0dW1zdCBxdWlzcXVlIHNhZ2l0dGlzLiBWaXRhZSB0b3J0b3IgY29uZGltZW50dW0gbGFjaW5pYSBxdWlzIHZlbCBlcm9zLiBDb25zZXF1YXQgbWF1cmlzIG51bmMgY29uZ3VlIG5pc2kgdml0YWUgc3VzY2lwaXQgdGVsbHVzLiBVbGxhbWNvcnBlciBzaXQgYW1ldCByaXN1cyBudWxsYW0gZWdldCBmZWxpcyBlZ2V0LiBBbWV0IG1hdXJpcyBjb21tb2RvIHF1aXMgaW1wZXJkaWV0IG1hc3NhIHRpbmNpZHVudCBudW5jLjwvcD4=",
+                      "order": "3"
+                    }
+                  ]
+                },
+                {
+                  "_id": "iE3SB443vMWSnzi6bZ68F9Xahs0wGQx4",
+                  "name": "BAB II",
+                  "order": "2",
+                  "materi": [
+                    {
+                      "_id": "AJQLPfZfqbaaB02SNnucmM3Za0TeBFsi",
+                      "name": "SASS / SCSS",
+                      "content": "PHA+VXJuYSBuZXF1ZSB2aXZlcnJhIGp1c3RvIG5lYyB1bHRyaWNlcyBkdWkuIFVsbGFtY29ycGVyIGEgbGFjdXMgdmVzdGlidWx1bSBzZWQgYXJjdSBub24uIEVzdCBsb3JlbSBpcHN1bSBkb2xvciBzaXQgYW1ldCBjb25zZWN0ZXR1ci4gTW9sZXN0aWUgYWMgZmV1Z2lhdCBzZWQgbGVjdHVzIHZlc3RpYnVsdW0gbWF0dGlzIHVsbGFtY29ycGVyIHZlbGl0LiBQdXJ1cyBpbiBtb2xsaXMgbnVuYyBzZWQgaWQgc2VtcGVyLiBQdXJ1cyBmYXVjaWJ1cyBvcm5hcmUgc3VzcGVuZGlzc2Ugc2VkIG5pc2kuIFNjZWxlcmlzcXVlIGZlbGlzIGltcGVyZGlldCBwcm9pbiBmZXJtZW50dW0gbGVvIHZlbCBvcmNpIHBvcnRhIG5vbi4gRmFjaWxpc2kgY3JhcyBmZXJtZW50dW0gb2RpbyBldS4gRWdldCBudWxsYW0gbm9uIG5pc2kgZXN0IHNpdCBhbWV0IGZhY2lsaXNpcyBtYWduYSBldGlhbS4gUXVpcyBjb21tb2RvIG9kaW8gYWVuZWFuIHNlZCBhZGlwaXNjaW5nIGRpYW0uIEZhbWVzIGFjIHR1cnBpcyBlZ2VzdGFzIGludGVnZXIuIFBoYXJldHJhIGNvbnZhbGxpcyBwb3N1ZXJlIG1vcmJpIGxlbyB1cm5hIG1vbGVzdGllIGF0IGVsZW1lbnR1bSBldS4gVm9sdXRwYXQgbWFlY2VuYXMgdm9sdXRwYXQgYmxhbmRpdCBhbGlxdWFtIGV0aWFtIGVyYXQuIExlbyBpbnRlZ2VyIG1hbGVzdWFkYSBudW5jIHZlbC4gTm9uIHF1YW0gbGFjdXMgc3VzcGVuZGlzc2UgZmF1Y2lidXMgaW50ZXJkdW0uPC9wPg==",
+                      "order": "1"
+                    },
+                    {
+                      "_id": "l1WCHcSvIQxxUxupNsRV1jgpfyJCWgvV",
+                      "name": "TypeScript",
+                      "content": "PHA+SGVuZHJlcml0IGdyYXZpZGEgcnV0cnVtIHF1aXNxdWUgbm9uIHRlbGx1cyBvcmNpIGFjLiBEaWduaXNzaW0gY29udmFsbGlzIGFlbmVhbiBldCB0b3J0b3IuIEVnZXQgbWF1cmlzIHBoYXJldHJhIGV0IHVsdHJpY2VzIG5lcXVlLiBPcmNpIGFjIGF1Y3RvciBhdWd1ZSBtYXVyaXMgYXVndWUgbmVxdWUuIFJob25jdXMgYWVuZWFuIHZlbCBlbGl0IHNjZWxlcmlzcXVlIG1hdXJpcy4gVWxsYW1jb3JwZXIgYSBsYWN1cyB2ZXN0aWJ1bHVtIHNlZCBhcmN1LiBGYXVjaWJ1cyBhIHBlbGxlbnRlc3F1ZSBzaXQgYW1ldC4gSXBzdW0gZmF1Y2lidXMgdml0YWUgYWxpcXVldCBuZWMgdWxsYW1jb3JwZXIuIE5lcXVlIGdyYXZpZGEgaW4gZmVybWVudHVtIGV0IHNvbGxpY2l0dWRpbiBhYyBvcmNpIHBoYXNlbGx1cy4gVHVycGlzIGVnZXN0YXMgc2VkIHRlbXB1cyB1cm5hIGV0IHBoYXJldHJhLiBCaWJlbmR1bSBhdCB2YXJpdXMgdmVsIHBoYXJldHJhIHZlbC4gQXQgbGVjdHVzIHVybmEgZHVpcyBjb252YWxsaXMuIE1hbGVzdWFkYSBmYW1lcyBhYyB0dXJwaXMgZWdlc3RhcyBpbnRlZ2VyIGVnZXQuIEFkaXBpc2NpbmcgZWxpdCBkdWlzIHRyaXN0aXF1ZSBzb2xsaWNpdHVkaW4gbmliaCBzaXQuIEZhdWNpYnVzIGluIG9ybmFyZSBxdWFtIHZpdmVycmEgb3JjaSBzYWdpdHRpcyBldS4gU2VuZWN0dXMgZXQgbmV0dXMgZXQgbWFsZXN1YWRhIGZhbWVzIGFjIHR1cnBpcyBlZ2VzdGFzLiBBYyBwbGFjZXJhdCB2ZXN0aWJ1bHVtIGxlY3R1cyBtYXVyaXMgdWx0cmljZXMgZXJvcyBpbiBjdXJzdXMgdHVycGlzLiBTZW0gZnJpbmdpbGxhIHV0IG1vcmJpIHRpbmNpZHVudC4gQ3JhcyBzZWQgZmVsaXMgZWdldCB2ZWxpdC48L3A+",
+                      "order": "2"
+                    }
+                  ]
+                }
+              ],
+              "class": [
+                {
+                  "_id": "5wUozfrO49PHA6twXEe1RRX8yIAqZjWl",
+                  "name": "PGA - A",
+                  "task": [
+                    {
+                      "_id": "9cUsrm2XXUq0yLhhamwbzV7rZMIi4kHY",
+                      "title": "Middle Practice",
+                      "order": "1",
+                      "description": "PHA+TG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2NpbmcgZWxpdCwgc2VkIGRvIGVpdXNtb2QgdGVtcG9yIGluY2lkaWR1bnQgdXQgbGFib3JlIGV0IGRvbG9yZSBtYWduYSBhbGlxdWEuIEluIGVnZXN0YXMgZXJhdCBpbXBlcmRpZXQgc2VkIGV1aXNtb2QgbmlzaSBwb3J0YS4gU2FnaXR0aXMgb3JjaSBhIHNjZWxlcmlzcXVlIHB1cnVzIHNlbXBlciBlZ2V0IGR1aXMuIEluIG9ybmFyZSBxdWFtIHZpdmVycmEgb3JjaSBzYWdpdHRpcyBldS4gU2VkIHVsbGFtY29ycGVyIG1vcmJpIHRpbmNpZHVudCBvcm5hcmUgbWFzc2EuIE5lcXVlIGxhb3JlZXQgc3VzcGVuZGlzc2UgaW50ZXJkdW0gY29uc2VjdGV0dXIuIFV0IGRpYW0gcXVhbSBudWxsYSBwb3J0dGl0b3IgbWFzc2EgaWQuIFZpdmVycmEgb3JjaSBzYWdpdHRpcyBldSB2b2x1dHBhdCBvZGlvIGZhY2lsaXNpcyBtYXVyaXMgc2l0IGFtZXQuIEFtZXQgcG9ydHRpdG9yIGVnZXQgZG9sb3IgbW9yYmkuIFBsYWNlcmF0IGluIGVnZXN0YXMgZXJhdCBpbXBlcmRpZXQgc2VkIGV1aXNtb2QgbmlzaSBwb3J0YS4gR3JhdmlkYSBpbiBmZXJtZW50dW0gZXQgc29sbGljaXR1ZGluIGFjIG9yY2kgcGhhc2VsbHVzIGVnZXN0YXMgdGVsbHVzLiBBcmN1IGN1cnN1cyB2aXRhZSBjb25ndWUgbWF1cmlzIHJob25jdXMgYWVuZWFuIHZlbCBlbGl0LiBGZXJtZW50dW0gcG9zdWVyZSB1cm5hIG5lYyB0aW5jaWR1bnQgcHJhZXNlbnQuPC9wPg=="
+                    },
+                    {
+                      "_id": "JHvLSlI90nDT9ReqjcfqX4wjQKYkifu8",
+                      "title": "Final Practice",
+                      "order": "2",
+                      "description": "PHA+TWFnbmEgZWdldCBlc3QgbG9yZW0gaXBzdW0gZG9sb3Igc2l0LiBMYWN1cyB2ZWwgZmFjaWxpc2lzIHZvbHV0cGF0IGVzdCB2ZWxpdCBlZ2VzdGFzIGR1aSBpZCBvcm5hcmUuIE5pc2wgc3VzY2lwaXQgYWRpcGlzY2luZyBiaWJlbmR1bSBlc3QgdWx0cmljaWVzIGludGVnZXIgcXVpcyBhdWN0b3IuIEp1c3RvIGVnZXQgbWFnbmEgZmVybWVudHVtIGlhY3VsaXMgZXUgbm9uIGRpYW0gcGhhc2VsbHVzIHZlc3RpYnVsdW0uIFJob25jdXMgdXJuYSBuZXF1ZSB2aXZlcnJhIGp1c3RvLiBVbGxhbWNvcnBlciBtYWxlc3VhZGEgcHJvaW4gbGliZXJvIG51bmMuIEV0IHRvcnRvciBhdCByaXN1cyB2aXZlcnJhIGFkaXBpc2NpbmcuIFVsdHJpY2VzIG1pIHRlbXB1cyBpbXBlcmRpZXQgbnVsbGEuIFBvcnR0aXRvciBtYXNzYSBpZCBuZXF1ZSBhbGlxdWFtIHZlc3RpYnVsdW0gbW9yYmkgYmxhbmRpdC4gTGVjdHVzIG1hdXJpcyB1bHRyaWNlcyBlcm9zIGluIGN1cnN1cyB0dXJwaXMgbWFzc2EgdGluY2lkdW50IGR1aS4gQW1ldCBjb21tb2RvIG51bGxhIGZhY2lsaXNpIG51bGxhbSB2ZWhpY3VsYSBpcHN1bSBhLiBPcmNpIGRhcGlidXMgdWx0cmljZXMgaW4gaWFjdWxpcyBudW5jIHNlZCBhdWd1ZSBsYWN1cyB2aXZlcnJhLiBNaSBzaXQgYW1ldCBtYXVyaXMgY29tbW9kbyBxdWlzIGltcGVyZGlldCBtYXNzYSB0aW5jaWR1bnQuIEVuaW0gdG9ydG9yIGF0IGF1Y3RvciB1cm5hIG51bmMgaWQgY3Vyc3VzLiBGYW1lcyBhYyB0dXJwaXMgZWdlc3RhcyBtYWVjZW5hcy4gVHVycGlzIGVnZXN0YXMgbWFlY2VuYXMgcGhhcmV0cmEgY29udmFsbGlzIHBvc3VlcmUuIFNpdCBhbWV0IG51bGxhIGZhY2lsaXNpIG1vcmJpIHRlbXB1cyBpYWN1bGlzLiBVbHRyaWNpZXMgbGVvIGludGVnZXIgbWFsZXN1YWRhIG51bmMgdmVsIHJpc3VzIGNvbW1vZG8uIElhY3VsaXMgYXQgZXJhdCBwZWxsZW50ZXNxdWUgYWRpcGlzY2luZyBjb21tb2RvIGVsaXQuIFZpdmVycmEgbWFlY2VuYXMgYWNjdW1zYW4gbGFjdXMgdmVsIGZhY2lsaXNpcyB2b2x1dHBhdCBlc3QgdmVsaXQuPC9wPg=="
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "course": [
+            {
+              "_id": "8TQks8eFylMw3Cab9dfVsJfm9dWwRCRO",
+              "type": "postgraduate",
+              "title": "Agile",
+              "description": "Push the boundaries of team productivity. Dive deep into agile implementation. Become an Agile Transformation Leader. Join the Post Graduate Program in Agile in partnership with the University of Massachusetts Amherst to gain the tools and knowledge to succeed in real-world agile projects.",
+              "keyfeature": [
+                {
+                  "_id": "Nr1IAK6NJlFXJERaYSriLfFt1u0hRtbw",
+                  "order": "1",
+                  "title": "University of Massachusetts Amherst Post Graduate Program Certificate of Completion"
+                },
+                {
+                  "_id": "6E4taWtrZzS2U7FDDNTfQSuGsolKiCNj",
+                  "order": "2",
+                  "title": "Masterclasses from top faculty of the University of Massachusetts Amherst"
+                },
+                {
+                  "_id": "qZJXyDaPg6UwEQvEYEULXNiLu0SX3orI",
+                  "order": "3",
+                  "title": "Interactive peer learning through group projects and discussions"
+                },
+                {
+                  "_id": "3iPlxDqFOiwj5kMyOfvhDp2f8sVX6K4D",
+                  "order": "4",
+                  "title": "Three phase-end projects during the cohort and one capstone project at the end of the cohort"
+                },
+                {
+                  "_id": "1cU13ycV6cVYRdyVXs89qKGv9QgZEhHD",
+                  "order": "5",
+                  "title": "Membership to the UMass Amherst Alumni Association"
+                },
+                {
+                  "_id": "E1QdZj3nS0p7QJI6RgFDH8GkTBQlL3rO",
+                  "order": "6",
+                  "title": "Once accepted into the UMass Amherst College of Engineering Master of Science in Engineering Management (MSEM) program, Simplilearn coursework transfers as a 3-credit concentration."
+                },
+                {
+                  "_id": "FKjjn6ueiVHGufMrN2rgqTJfzeogtIE5",
+                  "order": "7",
+                  "title": "122+ hours of Applied Learning"
+                }
+              ],
+              "learningpath": [
+                {
+                  "_id": "Xycp7lJO2T9G0vuv4Le7y7D3Y1SQ1Ezw",
+                  "order": "1",
+                  "title": "Agile Methodologies",
+                  "description": "This Agile course compares Agile with traditional project management approaches and then compares popular Agile methodologies to illustrate the advantages and Pitfalls of each scenario. Some of the popular methods compared in this class include Scrum, Lean, Kanban, Extreme Programming, Crystal, Dynamic Systems Development Method."
+                },
+                {
+                  "_id": "bcWxjuxQYJNjPFDd5fiJRrI8302957FD",
+                  "order": "2",
+                  "title": "Scrum Practices",
+                  "description": "Gain a deep understanding of Agile Scrum practices that range from the empirical process to scrum values, events and retrospectives. See the concepts at play through a case study from Intel Corp."
+                },
+                {
+                  "_id": "cTGf5Q1U0OJJjN72HR6xWNiX1JI7hlrW",
+                  "order": "3",
+                  "title": "Agile Release Planning",
+                  "description": "This Agile certification course helps you manage the product development processes and provides you the structured and objective approach needed to create a roadmap and release plan to execute a product vision. You'll learn how to use Jira to increase productivity and collaboration in your team."
+                },
+                {
+                  "_id": "iqEZgB9tPXF1wT8WR1haeQodgS72sLiF",
+                  "order": "4",
+                  "title": "Agile Maturity Model",
+                  "description": "This Agile training course will help you evaluate your team/organizational capabilities in a project. It will provide an approach for planning and executing improvements to existing practices by leading the organization onto the path of continuous improvement."
+                },
+                {
+                  "_id": "a1SYgX7XomXetHCAC05BQVsBgAsldkWg",
+                  "order": "5",
+                  "title": "Agile in Scaled Environment",
+                  "description": "Scrum@Scale — become a Lean-Agile leader by creating high performing teams and programs at the organizational level. Learn how to implement DAD and Scrum@Scale frameworks."
+                },
+                {
+                  "_id": "6XkIUHuzPoQW8UqpWawpKbH5pClpSRUZ",
+                  "order": "6",
+                  "title": "Agile and Design Thinking",
+                  "description": "Understand how to begin with the user at the heart of Agile. Deliver a superior product with Agile by identifying the right problems with the help of design thinking. This Agile certification course will help you correlate design thinking, Lean and Agile practices to get better outcomes."
+                },
+                {
+                  "_id": "8Uqw3tgmQBQMLdQR9eNJla6tXiuN4CpD",
+                  "order": "7",
+                  "title": "Agile and DevOps",
+                  "description": "In this Agile training , you will learn how to streamline release processes, improve product offerings, improve collaboration, and reduce risks by integrating DevOps with Agile."
+                },
+                {
+                  "_id": "zOy2gyscR9JQ2N8s7cT08hOg9Pu4J8tm",
+                  "order": "8",
+                  "title": "Agile Capstone",
+                  "description": "The Agile Capstone project will give you an opportunity to implement the skills learned during this program. Supported by dedicated mentoring sessions, you'll learn to solve a real, industry-aligned problem. The Capstone project is your final step in the learning path and will enable you to showcase your Agile product development expertise to future employers."
+                }
+              ],
+              "quiz": [
+                {
+                  "_id": "upRNlE5vX7oyauWuuMiXYGt7ZDpd7qGp",
+                  "order": "1",
+                  "title": "UTS",
+                  "question": [
+                    {
+                      "_id": "JCHc02tnBjLilv5tIhRNsudcpxzBD2vy",
+                      "order": "4",
+                      "question": "Pellentesque nec nam aliquam sem et tortor consequat id porta.",
+                      "answer": "d",
+                      "a": "pellentesque",
+                      "b": "consequat",
+                      "c": "aliquam",
+                      "d": "porta",
+                      "__typename": "Question"
+                    },
+                    {
+                      "_id": "nBnn7vqrVUwN0e2JBbUZqfjnZ980UQlK",
+                      "order": "3",
+                      "question": "Cursus mattis molestie a iaculis.",
+                      "answer": "c",
+                      "a": "cuscus",
+                      "b": "molestie",
+                      "c": "mattis",
+                      "d": "iaculis",
+                      "__typename": "Question"
+                    },
+                    {
+                      "_id": "SaoEJlb8ueDbeHxqEgaVwLtygfv7XjDt",
+                      "order": "2",
+                      "question": "Accumsan tortor posuere ac ut consequat semper viverra nam libero.",
+                      "answer": "b",
+                      "a": "accumsan",
+                      "b": "posuere",
+                      "c": "tortor",
+                      "d": "consequat",
+                      "__typename": "Question"
+                    },
+                    {
+                      "_id": "1TIClff5iwHXjgYdlJTh5tkEfpfSZQOg",
+                      "order": "1",
+                      "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                      "answer": "a",
+                      "a": "lorem",
+                      "b": "dolor",
+                      "c": "ipsum",
+                      "d": "sit",
+                      "__typename": "Question"
+                    }
+                  ]
+                },
+                {
+                  "_id": "0HLZlWf82bkPruxOYUB3IdAiT1qY0ZtX",
+                  "order": "2",
+                  "title": "UAS",
+                  "question": [
+                    {
+                      "_id": "eSCSkleVNtWRZqnGZmOFdy6ns08A6ChE",
+                      "order": "1",
+                      "question": "Risus commodo viverra maecenas accumsan lacus vel facilisis. Elit at imperdiet dui accumsan sit amet nulla.",
+                      "answer": "d",
+                      "a": "risus",
+                      "b": "viverra",
+                      "c": "commodo",
+                      "d": "maecenas",
+                      "__typename": "Question"
+                    },
+                    {
+                      "_id": "dBIhs3GCqP7RnOfTN1ERGx1S6kRfhCRG",
+                      "order": "2",
+                      "question": "Id aliquet risus feugiat in ante metus dictum at.",
+                      "answer": "c",
+                      "a": "aluquet",
+                      "b": "ante",
+                      "c": "feugiat",
+                      "d": "metus",
+                      "__typename": "Question"
+                    },
+                    {
+                      "_id": "kEannFuy45M2YgOuYh4UNcdNkyMyP3T7",
+                      "order": "3",
+                      "question": "Consequat id porta nibh venenatis cras sed felis eget velit.",
+                      "answer": "b",
+                      "a": "consequat",
+                      "b": "venenatis",
+                      "c": "porta",
+                      "d": "felis",
+                      "__typename": "Question"
+                    },
+                    {
+                      "_id": "LGTXzpPeGGzfpurcIDyizisNXaxAmjY3",
+                      "order": "4",
+                      "question": "Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus.",
+                      "answer": "a",
+                      "a": "quam",
+                      "b": "vitae",
+                      "c": "adipiscing",
+                      "d": "proin",
+                      "__typename": "Question"
+                    }
+                  ]
+                }
+              ],
+              "bab": [
+                {
+                  "_id": "r4jAtCurMnKTQlZwglHDuJkhRgQAGzNN",
+                  "name": "BAB I",
+                  "order": "1",
+                  "materi": [
+                    {
+                      "_id": "qaIfaKS0bLU0ziy4X5VTmxcznT7uLlCV",
+                      "name": "HTML",
+                      "content": "PHA+TG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2NpbmcgZWxpdCwgc2VkIGRvIGVpdXNtb2QgdGVtcG9yIGluY2lkaWR1bnQgdXQgbGFib3JlIGV0IGRvbG9yZSBtYWduYSBhbGlxdWEuIElkIGludGVyZHVtIHZlbGl0IGxhb3JlZXQgaWQgZG9uZWMuIE1hdXJpcyBwZWxsZW50ZXNxdWUgcHVsdmluYXIgcGVsbGVudGVzcXVlIGhhYml0YW50IG1vcmJpIHRyaXN0aXF1ZSBzZW5lY3R1cyBldC4gVml0YWUgc3VzY2lwaXQgdGVsbHVzIG1hdXJpcyBhIGRpYW0gbWFlY2VuYXMgc2VkLiBTb2RhbGVzIHV0IGV0aWFtIHNpdCBhbWV0IG5pc2wgcHVydXMuIFRlbXB1cyB1cm5hIGV0IHBoYXJldHJhIHBoYXJldHJhIG1hc3NhIG1hc3NhLiBUZWxsdXMgbWF1cmlzIGEgZGlhbSBtYWVjZW5hcyBzZWQuIEVsaXQgc2VkIHZ1bHB1dGF0ZSBtaSBzaXQgYW1ldCBtYXVyaXMgY29tbW9kbyBxdWlzIGltcGVyZGlldC4gTmV0dXMgZXQgbWFsZXN1YWRhIGZhbWVzIGFjIHR1cnBpcyBlZ2VzdGFzLiBRdWlzIGF1Y3RvciBlbGl0IHNlZCB2dWxwdXRhdGUgbWkgc2l0IGFtZXQgbWF1cmlzLjwvcD4=",
+                      "order": "1"
+                    },
+                    {
+                      "_id": "BoB7bVEo4vTn2kylNgHwkGkfAF1i9VeZ",
+                      "name": "CSS",
+                      "content": "PHA+U2VkIGVnZXN0YXMgZWdlc3RhcyBmcmluZ2lsbGEgcGhhc2VsbHVzIGZhdWNpYnVzIHNjZWxlcmlzcXVlIGVsZWlmZW5kIGRvbmVjIHByZXRpdW0uIERvbG9yIG1hZ25hIGVnZXQgZXN0IGxvcmVtIGlwc3VtLiBGYWNpbGlzaSBudWxsYW0gdmVoaWN1bGEgaXBzdW0gYSBhcmN1IGN1cnN1cyB2aXRhZS4gRHVpIHV0IG9ybmFyZSBsZWN0dXMgc2l0LiBFdWlzbW9kIGxhY2luaWEgYXQgcXVpcyByaXN1cyBzZWQgdnVscHV0YXRlIG9kaW8gdXQgZW5pbS4gSWQgYWxpcXVldCByaXN1cyBmZXVnaWF0IGluIGFudGUgbWV0dXMuIFNpdCBhbWV0IHRlbGx1cyBjcmFzIGFkaXBpc2NpbmcgZW5pbSBldS4gQXJjdSBiaWJlbmR1bSBhdCB2YXJpdXMgdmVsIHBoYXJldHJhIHZlbC4gUHJldGl1bSBxdWFtIHZ1bHB1dGF0ZSBkaWduaXNzaW0gc3VzcGVuZGlzc2UgaW4gZXN0IGFudGUgaW4gbmliaC4gVHVycGlzIG51bmMgZWdldCBsb3JlbSBkb2xvciBzZWQuIEZhdWNpYnVzIGludGVyZHVtIHBvc3VlcmUgbG9yZW0gaXBzdW0uIEV1IHNlbSBpbnRlZ2VyIHZpdGFlIGp1c3RvIGVnZXQgbWFnbmEuIFV0IGNvbnNlcXVhdCBzZW1wZXIgdml2ZXJyYSBuYW0gbGliZXJvIGp1c3RvIGxhb3JlZXQuIERpYW0gaW4gYXJjdSBjdXJzdXMgZXVpc21vZC4gQ3Vyc3VzIHZpdGFlIGNvbmd1ZSBtYXVyaXMgcmhvbmN1cyBhZW5lYW4gdmVsLiBNb3JiaSB0aW5jaWR1bnQgb3JuYXJlIG1hc3NhIGVnZXQgZWdlc3RhcyBwdXJ1cyB2aXZlcnJhIGFjY3Vtc2FuLiBNYWVjZW5hcyBzZWQgZW5pbSB1dCBzZW0gdml2ZXJyYSBhbGlxdWV0IGVnZXQuPC9wPg==",
+                      "order": "2"
+                    },
+                    {
+                      "_id": "EsgE1VzJLTK60qPKBafkviaLaku1F2lQ",
+                      "name": "JavaScript",
+                      "content": "PHA+SWFjdWxpcyBldSBub24gZGlhbSBwaGFzZWxsdXMgdmVzdGlidWx1bS4gTmVxdWUgY29udmFsbGlzIGEgY3JhcyBzZW1wZXIgYXVjdG9yIG5lcXVlIHZpdGFlIHRlbXB1cy4gTG9yZW0gZG9sb3Igc2VkIHZpdmVycmEgaXBzdW0gbnVuYy4gT3JuYXJlIG1hc3NhIGVnZXQgZWdlc3RhcyBwdXJ1cyB2aXZlcnJhIGFjY3Vtc2FuIGluLiBEb2xvciBzaXQgYW1ldCBjb25zZWN0ZXR1ciBhZGlwaXNjaW5nIGVsaXQgdXQgYWxpcXVhbSBwdXJ1cyBzaXQuIElkIGV1IG5pc2wgbnVuYyBtaSBpcHN1bSBmYXVjaWJ1cyB2aXRhZS4gQXQgdGVsbHVzIGF0IHVybmEgY29uZGltZW50dW0gbWF0dGlzIHBlbGxlbnRlc3F1ZS4gRXUgc2VtIGludGVnZXIgdml0YWUganVzdG8gZWdldCBtYWduYS4gVHVycGlzIGN1cnN1cyBpbiBoYWMgaGFiaXRhc3NlIHBsYXRlYSBkaWN0dW1zdCBxdWlzcXVlIHNhZ2l0dGlzLiBWaXRhZSB0b3J0b3IgY29uZGltZW50dW0gbGFjaW5pYSBxdWlzIHZlbCBlcm9zLiBDb25zZXF1YXQgbWF1cmlzIG51bmMgY29uZ3VlIG5pc2kgdml0YWUgc3VzY2lwaXQgdGVsbHVzLiBVbGxhbWNvcnBlciBzaXQgYW1ldCByaXN1cyBudWxsYW0gZWdldCBmZWxpcyBlZ2V0LiBBbWV0IG1hdXJpcyBjb21tb2RvIHF1aXMgaW1wZXJkaWV0IG1hc3NhIHRpbmNpZHVudCBudW5jLjwvcD4=",
+                      "order": "3"
+                    }
+                  ]
+                },
+                {
+                  "_id": "iE3SB443vMWSnzi6bZ68F9Xahs0wGQx4",
+                  "name": "BAB II",
+                  "order": "2",
+                  "materi": [
+                    {
+                      "_id": "AJQLPfZfqbaaB02SNnucmM3Za0TeBFsi",
+                      "name": "SASS / SCSS",
+                      "content": "PHA+VXJuYSBuZXF1ZSB2aXZlcnJhIGp1c3RvIG5lYyB1bHRyaWNlcyBkdWkuIFVsbGFtY29ycGVyIGEgbGFjdXMgdmVzdGlidWx1bSBzZWQgYXJjdSBub24uIEVzdCBsb3JlbSBpcHN1bSBkb2xvciBzaXQgYW1ldCBjb25zZWN0ZXR1ci4gTW9sZXN0aWUgYWMgZmV1Z2lhdCBzZWQgbGVjdHVzIHZlc3RpYnVsdW0gbWF0dGlzIHVsbGFtY29ycGVyIHZlbGl0LiBQdXJ1cyBpbiBtb2xsaXMgbnVuYyBzZWQgaWQgc2VtcGVyLiBQdXJ1cyBmYXVjaWJ1cyBvcm5hcmUgc3VzcGVuZGlzc2Ugc2VkIG5pc2kuIFNjZWxlcmlzcXVlIGZlbGlzIGltcGVyZGlldCBwcm9pbiBmZXJtZW50dW0gbGVvIHZlbCBvcmNpIHBvcnRhIG5vbi4gRmFjaWxpc2kgY3JhcyBmZXJtZW50dW0gb2RpbyBldS4gRWdldCBudWxsYW0gbm9uIG5pc2kgZXN0IHNpdCBhbWV0IGZhY2lsaXNpcyBtYWduYSBldGlhbS4gUXVpcyBjb21tb2RvIG9kaW8gYWVuZWFuIHNlZCBhZGlwaXNjaW5nIGRpYW0uIEZhbWVzIGFjIHR1cnBpcyBlZ2VzdGFzIGludGVnZXIuIFBoYXJldHJhIGNvbnZhbGxpcyBwb3N1ZXJlIG1vcmJpIGxlbyB1cm5hIG1vbGVzdGllIGF0IGVsZW1lbnR1bSBldS4gVm9sdXRwYXQgbWFlY2VuYXMgdm9sdXRwYXQgYmxhbmRpdCBhbGlxdWFtIGV0aWFtIGVyYXQuIExlbyBpbnRlZ2VyIG1hbGVzdWFkYSBudW5jIHZlbC4gTm9uIHF1YW0gbGFjdXMgc3VzcGVuZGlzc2UgZmF1Y2lidXMgaW50ZXJkdW0uPC9wPg==",
+                      "order": "1"
+                    },
+                    {
+                      "_id": "l1WCHcSvIQxxUxupNsRV1jgpfyJCWgvV",
+                      "name": "TypeScript",
+                      "content": "PHA+SGVuZHJlcml0IGdyYXZpZGEgcnV0cnVtIHF1aXNxdWUgbm9uIHRlbGx1cyBvcmNpIGFjLiBEaWduaXNzaW0gY29udmFsbGlzIGFlbmVhbiBldCB0b3J0b3IuIEVnZXQgbWF1cmlzIHBoYXJldHJhIGV0IHVsdHJpY2VzIG5lcXVlLiBPcmNpIGFjIGF1Y3RvciBhdWd1ZSBtYXVyaXMgYXVndWUgbmVxdWUuIFJob25jdXMgYWVuZWFuIHZlbCBlbGl0IHNjZWxlcmlzcXVlIG1hdXJpcy4gVWxsYW1jb3JwZXIgYSBsYWN1cyB2ZXN0aWJ1bHVtIHNlZCBhcmN1LiBGYXVjaWJ1cyBhIHBlbGxlbnRlc3F1ZSBzaXQgYW1ldC4gSXBzdW0gZmF1Y2lidXMgdml0YWUgYWxpcXVldCBuZWMgdWxsYW1jb3JwZXIuIE5lcXVlIGdyYXZpZGEgaW4gZmVybWVudHVtIGV0IHNvbGxpY2l0dWRpbiBhYyBvcmNpIHBoYXNlbGx1cy4gVHVycGlzIGVnZXN0YXMgc2VkIHRlbXB1cyB1cm5hIGV0IHBoYXJldHJhLiBCaWJlbmR1bSBhdCB2YXJpdXMgdmVsIHBoYXJldHJhIHZlbC4gQXQgbGVjdHVzIHVybmEgZHVpcyBjb252YWxsaXMuIE1hbGVzdWFkYSBmYW1lcyBhYyB0dXJwaXMgZWdlc3RhcyBpbnRlZ2VyIGVnZXQuIEFkaXBpc2NpbmcgZWxpdCBkdWlzIHRyaXN0aXF1ZSBzb2xsaWNpdHVkaW4gbmliaCBzaXQuIEZhdWNpYnVzIGluIG9ybmFyZSBxdWFtIHZpdmVycmEgb3JjaSBzYWdpdHRpcyBldS4gU2VuZWN0dXMgZXQgbmV0dXMgZXQgbWFsZXN1YWRhIGZhbWVzIGFjIHR1cnBpcyBlZ2VzdGFzLiBBYyBwbGFjZXJhdCB2ZXN0aWJ1bHVtIGxlY3R1cyBtYXVyaXMgdWx0cmljZXMgZXJvcyBpbiBjdXJzdXMgdHVycGlzLiBTZW0gZnJpbmdpbGxhIHV0IG1vcmJpIHRpbmNpZHVudC4gQ3JhcyBzZWQgZmVsaXMgZWdldCB2ZWxpdC48L3A+",
+                      "order": "2"
+                    }
+                  ]
+                }
+              ],
+              "class": [
+                {
+                  "_id": "5wUozfrO49PHA6twXEe1RRX8yIAqZjWl",
+                  "name": "PGA - A",
+                  "task": [
+                    {
+                      "_id": "9cUsrm2XXUq0yLhhamwbzV7rZMIi4kHY",
+                      "title": "Middle Practice",
+                      "order": "1",
+                      "description": "PHA+TG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2NpbmcgZWxpdCwgc2VkIGRvIGVpdXNtb2QgdGVtcG9yIGluY2lkaWR1bnQgdXQgbGFib3JlIGV0IGRvbG9yZSBtYWduYSBhbGlxdWEuIEluIGVnZXN0YXMgZXJhdCBpbXBlcmRpZXQgc2VkIGV1aXNtb2QgbmlzaSBwb3J0YS4gU2FnaXR0aXMgb3JjaSBhIHNjZWxlcmlzcXVlIHB1cnVzIHNlbXBlciBlZ2V0IGR1aXMuIEluIG9ybmFyZSBxdWFtIHZpdmVycmEgb3JjaSBzYWdpdHRpcyBldS4gU2VkIHVsbGFtY29ycGVyIG1vcmJpIHRpbmNpZHVudCBvcm5hcmUgbWFzc2EuIE5lcXVlIGxhb3JlZXQgc3VzcGVuZGlzc2UgaW50ZXJkdW0gY29uc2VjdGV0dXIuIFV0IGRpYW0gcXVhbSBudWxsYSBwb3J0dGl0b3IgbWFzc2EgaWQuIFZpdmVycmEgb3JjaSBzYWdpdHRpcyBldSB2b2x1dHBhdCBvZGlvIGZhY2lsaXNpcyBtYXVyaXMgc2l0IGFtZXQuIEFtZXQgcG9ydHRpdG9yIGVnZXQgZG9sb3IgbW9yYmkuIFBsYWNlcmF0IGluIGVnZXN0YXMgZXJhdCBpbXBlcmRpZXQgc2VkIGV1aXNtb2QgbmlzaSBwb3J0YS4gR3JhdmlkYSBpbiBmZXJtZW50dW0gZXQgc29sbGljaXR1ZGluIGFjIG9yY2kgcGhhc2VsbHVzIGVnZXN0YXMgdGVsbHVzLiBBcmN1IGN1cnN1cyB2aXRhZSBjb25ndWUgbWF1cmlzIHJob25jdXMgYWVuZWFuIHZlbCBlbGl0LiBGZXJtZW50dW0gcG9zdWVyZSB1cm5hIG5lYyB0aW5jaWR1bnQgcHJhZXNlbnQuPC9wPg=="
+                    },
+                    {
+                      "_id": "JHvLSlI90nDT9ReqjcfqX4wjQKYkifu8",
+                      "title": "Final Practice",
+                      "order": "2",
+                      "description": "PHA+TWFnbmEgZWdldCBlc3QgbG9yZW0gaXBzdW0gZG9sb3Igc2l0LiBMYWN1cyB2ZWwgZmFjaWxpc2lzIHZvbHV0cGF0IGVzdCB2ZWxpdCBlZ2VzdGFzIGR1aSBpZCBvcm5hcmUuIE5pc2wgc3VzY2lwaXQgYWRpcGlzY2luZyBiaWJlbmR1bSBlc3QgdWx0cmljaWVzIGludGVnZXIgcXVpcyBhdWN0b3IuIEp1c3RvIGVnZXQgbWFnbmEgZmVybWVudHVtIGlhY3VsaXMgZXUgbm9uIGRpYW0gcGhhc2VsbHVzIHZlc3RpYnVsdW0uIFJob25jdXMgdXJuYSBuZXF1ZSB2aXZlcnJhIGp1c3RvLiBVbGxhbWNvcnBlciBtYWxlc3VhZGEgcHJvaW4gbGliZXJvIG51bmMuIEV0IHRvcnRvciBhdCByaXN1cyB2aXZlcnJhIGFkaXBpc2NpbmcuIFVsdHJpY2VzIG1pIHRlbXB1cyBpbXBlcmRpZXQgbnVsbGEuIFBvcnR0aXRvciBtYXNzYSBpZCBuZXF1ZSBhbGlxdWFtIHZlc3RpYnVsdW0gbW9yYmkgYmxhbmRpdC4gTGVjdHVzIG1hdXJpcyB1bHRyaWNlcyBlcm9zIGluIGN1cnN1cyB0dXJwaXMgbWFzc2EgdGluY2lkdW50IGR1aS4gQW1ldCBjb21tb2RvIG51bGxhIGZhY2lsaXNpIG51bGxhbSB2ZWhpY3VsYSBpcHN1bSBhLiBPcmNpIGRhcGlidXMgdWx0cmljZXMgaW4gaWFjdWxpcyBudW5jIHNlZCBhdWd1ZSBsYWN1cyB2aXZlcnJhLiBNaSBzaXQgYW1ldCBtYXVyaXMgY29tbW9kbyBxdWlzIGltcGVyZGlldCBtYXNzYSB0aW5jaWR1bnQuIEVuaW0gdG9ydG9yIGF0IGF1Y3RvciB1cm5hIG51bmMgaWQgY3Vyc3VzLiBGYW1lcyBhYyB0dXJwaXMgZWdlc3RhcyBtYWVjZW5hcy4gVHVycGlzIGVnZXN0YXMgbWFlY2VuYXMgcGhhcmV0cmEgY29udmFsbGlzIHBvc3VlcmUuIFNpdCBhbWV0IG51bGxhIGZhY2lsaXNpIG1vcmJpIHRlbXB1cyBpYWN1bGlzLiBVbHRyaWNpZXMgbGVvIGludGVnZXIgbWFsZXN1YWRhIG51bmMgdmVsIHJpc3VzIGNvbW1vZG8uIElhY3VsaXMgYXQgZXJhdCBwZWxsZW50ZXNxdWUgYWRpcGlzY2luZyBjb21tb2RvIGVsaXQuIFZpdmVycmEgbWFlY2VuYXMgYWNjdW1zYW4gbGFjdXMgdmVsIGZhY2lsaXNpcyB2b2x1dHBhdCBlc3QgdmVsaXQuPC9wPg=="
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

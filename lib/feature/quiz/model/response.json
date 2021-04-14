@@ -1,0 +1,104 @@
+{
+  "data": {
+    "courseById": {
+      "_id": "8TQks8eFylMw3Cab9dfVsJfm9dWwRCRO",
+      "title": "Agile",
+      "quiz": [
+        {
+          "_id": "upRNlE5vX7oyauWuuMiXYGt7ZDpd7qGp",
+          "order": "1",
+          "title": "UTS",
+          "question": [
+            {
+              "_id": "JCHc02tnBjLilv5tIhRNsudcpxzBD2vy",
+              "order": "4",
+              "question": "Pellentesque nec nam aliquam sem et tortor consequat id porta.",
+              "answer": "d",
+              "a": "pellentesque",
+              "b": "consequat",
+              "c": "aliquam",
+              "d": "porta"
+            },
+            {
+              "_id": "nBnn7vqrVUwN0e2JBbUZqfjnZ980UQlK",
+              "order": "3",
+              "question": "Cursus mattis molestie a iaculis.",
+              "answer": "c",
+              "a": "cuscus",
+              "b": "molestie",
+              "c": "mattis",
+              "d": "iaculis"
+            },
+            {
+              "_id": "SaoEJlb8ueDbeHxqEgaVwLtygfv7XjDt",
+              "order": "2",
+              "question": "Accumsan tortor posuere ac ut consequat semper viverra nam libero.",
+              "answer": "b",
+              "a": "accumsan",
+              "b": "posuere",
+              "c": "tortor",
+              "d": "consequat"
+            },
+            {
+              "_id": "1TIClff5iwHXjgYdlJTh5tkEfpfSZQOg",
+              "order": "1",
+              "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+              "answer": "a",
+              "a": "lorem",
+              "b": "dolor",
+              "c": "ipsum",
+              "d": "sit"
+            }
+          ]
+        },
+        {
+          "_id": "0HLZlWf82bkPruxOYUB3IdAiT1qY0ZtX",
+          "order": "2",
+          "title": "UAS",
+          "question": [
+            {
+              "_id": "eSCSkleVNtWRZqnGZmOFdy6ns08A6ChE",
+              "order": "1",
+              "question": "Risus commodo viverra maecenas accumsan lacus vel facilisis. Elit at imperdiet dui accumsan sit amet nulla.",
+              "answer": "d",
+              "a": "risus",
+              "b": "viverra",
+              "c": "commodo",
+              "d": "maecenas"
+            },
+            {
+              "_id": "dBIhs3GCqP7RnOfTN1ERGx1S6kRfhCRG",
+              "order": "2",
+              "question": "Id aliquet risus feugiat in ante metus dictum at.",
+              "answer": "c",
+              "a": "aluquet",
+              "b": "ante",
+              "c": "feugiat",
+              "d": "metus"
+            },
+            {
+              "_id": "kEannFuy45M2YgOuYh4UNcdNkyMyP3T7",
+              "order": "3",
+              "question": "Consequat id porta nibh venenatis cras sed felis eget velit.",
+              "answer": "b",
+              "a": "consequat",
+              "b": "venenatis",
+              "c": "porta",
+              "d": "felis"
+            },
+            {
+              "_id": "LGTXzpPeGGzfpurcIDyizisNXaxAmjY3",
+              "order": "4",
+              "question": "Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus.",
+              "answer": "a",
+              "a": "quam",
+              "b": "vitae",
+              "c": "adipiscing",
+              "d": "proin"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

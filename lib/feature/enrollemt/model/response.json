@@ -1,0 +1,50 @@
+{
+        "userByParam": {
+            "enrollment": [
+                {
+                    "_id": "xP5sdJYzCZDIwsVPsVgVfmY96fHSLqBU",
+                    "status": "2",
+                    "course": [
+                        {
+                            "_id": "8TQks8eFylMw3Cab9dfVsJfm9dWwRCRO",
+                            "title": "Agile",
+                            "type": "postgraduate"
+                        }
+                    ]
+                },
+                {
+                    "_id": "YTY8h1UIXSNEhyfThN3htgF1MQhr6Gzt",
+                    "status": "0",
+                    "course": [
+                        {
+                            "_id": "8TQks8eFylMw3Cab9dfVsJfm9dWwRCRO",
+                            "title": "Agile",
+                            "type": "postgraduate"
+                        }
+                    ]
+                },
+                {
+                    "_id": "hGGveTQHS5OYKHzVkm6VBwp0M4LKqGKg",
+                    "status": "0",
+                    "course": [
+                        {
+                            "_id": "8TQks8eFylMw3Cab9dfVsJfm9dWwRCRO",
+                            "title": "Agile",
+                            "type": "postgraduate"
+                        }
+                    ]
+                },
+                {
+                    "_id": "Sg1U1yOK3Iuqw5wGRDDeKlwNiicbJEU5",
+                    "status": "0",
+                    "course": [
+                        {
+                            "_id": "DKBwqlXgycmsKTcDyOU3UWoK2fdw41a0",
+                            "title": "Digital Marketing",
+                            "type": "postgraduate"
+                        }
+                    ]
+                }
+            ]
+        }
+}

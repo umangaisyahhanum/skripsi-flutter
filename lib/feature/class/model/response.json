@@ -1,0 +1,86 @@
+{
+    "data": {
+        "userByParam": {
+            "enrollment": [
+                {
+                    "_id": "xP5sdJYzCZDIwsVPsVgVfmY96fHSLqBU",
+                    "status": "2",
+                    "materi_result": "3",
+                    "task_result": [
+                        {
+                            "_id": "9cUsrm2XXUq0yLhhamwbzV7rZMIi4kHY"
+                        }
+                    ],
+                    "quiz_result": [
+                        {
+                            "_id": "upRNlE5vX7oyauWuuMiXYGt7ZDpd7qGp",
+                            "score": "75"
+                        }
+                    ],
+                    "course": [
+                        {
+                            "_id": "8TQks8eFylMw3Cab9dfVsJfm9dWwRCRO",
+                            "type": "postgraduate",
+                            "title": "Agile",
+                            "description": "Push the boundaries of team productivity. Dive deep into agile implementation. Become an Agile Transformation Leader. Join the Post Graduate Program in Agile in partnership with the University of Massachusetts Amherst to gain the tools and knowledge to succeed in real-world agile projects.",
+                            "bab": [
+                                {
+                                    "materi": [
+                                        {
+                                            "_id": "qaIfaKS0bLU0ziy4X5VTmxcznT7uLlCV"
+                                        },
+                                        {
+                                            "_id": "BoB7bVEo4vTn2kylNgHwkGkfAF1i9VeZ"
+                                        },
+                                        {
+                                            "_id": "EsgE1VzJLTK60qPKBafkviaLaku1F2lQ"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "materi": [
+                                        {
+                                            "_id": "AJQLPfZfqbaaB02SNnucmM3Za0TeBFsi"
+                                        },
+                                        {
+                                            "_id": "l1WCHcSvIQxxUxupNsRV1jgpfyJCWgvV"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "quiz": [
+                                {
+                                    "_id": "upRNlE5vX7oyauWuuMiXYGt7ZDpd7qGp"
+                                },
+                                {
+                                    "_id": "0HLZlWf82bkPruxOYUB3IdAiT1qY0ZtX"
+                                }
+                            ]
+                        }
+                    ],
+                    "class": [
+                        {
+                            "_id": "5wUozfrO49PHA6twXEe1RRX8yIAqZjWl",
+                            "name": "PGA - A",
+                            "instructor": [
+                                {
+                                    "_id": "LzBcSBtgG3afPDrqLnvNEIf1KweWJFL4",
+                                    "name": "Nurudin Santoso",
+                                    "email": "nurudin.santoso@gmail.com"
+                                }
+                            ],
+                            "task": [
+                                {
+                                    "_id": "9cUsrm2XXUq0yLhhamwbzV7rZMIi4kHY"
+                                },
+                                {
+                                    "_id": "JHvLSlI90nDT9ReqjcfqX4wjQKYkifu8"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
